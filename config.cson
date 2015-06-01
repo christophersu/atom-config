@@ -5,9 +5,20 @@
     showOnStartup: false
   core:
     audioBeep: false
+    ignoredNames: [
+      ".git"
+      ".hg"
+      ".svn"
+      ".DS_Store"
+      "._*"
+      "Thumbs.db"
+      "~$*"
+    ]
   editor:
     invisibles:
       {}
     tabLength: 4
     showIndentGuide: true
     scrollPastEnd: true
+    fontSize: 18
+    autoIndentOnPaste: false
