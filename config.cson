@@ -1,0 +1,13 @@
+"*":
+  "exception-reporting":
+    userId: "594f3062-aeae-b013-0a38-e481783d9713"
+  welcome:
+    showOnStartup: false
+  core:
+    audioBeep: false
+  editor:
+    invisibles:
+      {}
+    tabLength: 4
+    showIndentGuide: true
+    scrollPastEnd: true
